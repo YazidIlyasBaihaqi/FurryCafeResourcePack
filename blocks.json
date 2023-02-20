@@ -1,0 +1,40 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"FCAdd:oak_window": {
+		"sound": "wood"
+	},
+	"FCAdd:acacia_window": {
+		"sound": "wood"
+	},
+	"FCAdd:jungle_window": {
+		"sound": "wood"
+	},
+	"FCAdd:dark_oak_window": {
+		"sound": "wood"
+	},
+	"FCAdd:birch_window": {
+		"sound": "wood"
+	},
+	"FCAdd:spruce_window": {
+		"sound": "wood"
+	},
+	"FCAdd:oak_crate": {
+		"sound": "wood"
+	},
+	"FCAdd:crate": {
+		"sound": "stone"
+	},
+	"FCAdd:shoji_trapdoor": {
+		"sound": "wood"
+	},
+	"FCAdd:carpet_1": {
+		"sound": "stone"
+	},
+	"FCAdd:vertical_slab_oak_planks": {
+		"sound": "wood"
+	}
+}

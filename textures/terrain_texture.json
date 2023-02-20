@@ -1,0 +1,86 @@
+{
+  "num_mip_levels": 4,
+  "padding": 8,
+  "resource_pack_name": "FurryCafe Add-Ons",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "planks_oak": {
+      "textures": "textures/blocks/planks_oak"
+    },
+    "planks_acacia": {
+      "textures": "textures/blocks/planks_acacia"
+    },
+    "planks_big_oak": {
+      "textures": "textures/blocks/planks_big_oak"
+    },
+    "planks_birch": {
+      "textures": "textures/blocks/planks_birch"
+    },
+    "planks_jungle": {
+      "textures": "textures/blocks/planks_jungle"
+    },
+    "planks_spruce": {
+      "textures": "textures/blocks/planks_spruce"
+    },
+    "planks_warped": {
+      "textures": "textures/blocks/planks_warped"
+    },
+    "planks_mangrove": {
+      "textures": "textures/blocks/planks_mangrove"
+    },
+    "planks_crimson": {
+      "textures": "textures/blocks/planks_crimson"
+    },
+    "log_oak": {
+      "textures": "textures/blocks/log_oak"
+    },
+    "log_acacia": {
+      "textures": "textures/blocks/log_acacia"
+    },
+    "log_big_oak": {
+      "textures": "textures/blocks/log_big_oak"
+    },
+    "log_birch": {
+      "textures": "textures/blocks/log_birch"
+    },
+    "log_jungle": {
+      "textures": "textures/blocks/log_jungle"
+    },
+    "log_spruce": {
+      "textures": "textures/blocks/log_spruce"
+    },
+    "log_mangrove": {
+      "textures": "textures/blocks/log_mangrove"
+    },
+    "warped_stem": {
+      "textures": "textures/blocks/warped_stem"
+    },
+    "crimson_stem": {
+      "textures": "textures/blocks/crimson_stem"
+    },
+    "FCAdd_oak_window": {
+      "textures": "textures/blocks/oak-window"
+    },
+    "FCAdd_acacia_window": {
+      "textures": "textures/blocks/acacia-window"
+    },
+    "FCAdd_jungle_window": {
+      "textures": "textures/blocks/jungle-window"
+    },
+    "FCAdd_birch_window": {
+      "textures": "textures/blocks/birch-window"
+    },
+    "FCAdd_dark_oak_window": {
+      "textures": "textures/blocks/dark-oak-window"
+    },
+    "FCAdd_spruce_window": {
+      "textures": "textures/blocks/spruce-window"
+    },
+    "FCAdd_shoji_trapdoor": {
+      "textures": "textures/blocks/shoji_trapdoor"
+    },
+    "FCAdd_carpet_1": {
+      "textures": "textures/blocks/carpet_red"
+    }
+  }
+}

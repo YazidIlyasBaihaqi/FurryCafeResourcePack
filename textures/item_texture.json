@@ -1,0 +1,15 @@
+{
+	"resource_pack_name": "FurryCafe Add-Ons",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"FCAdd_protogen_helmet": {
+			"textures": "textures/items/protogen_helmet"
+		},
+		"FCAdd_miner_helmet": {
+			"textures": "textures/items/miner_helmet"
+		},
+		"FCAdd_sushi": {
+			"textures": "textures/items/sushi"
+		}
+	}
+}

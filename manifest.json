@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Drakov"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "FurryCafe Add-Ons",
+		"description": "FurryCafe custom Add-ons by Drakov",
+		"min_engine_version": [
+			1,
+			19,
+			51
+		],
+		"uuid": "c2513595-1f80-49e1-b5a9-63096357afd5",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "8c13271d-247b-494c-b58c-34301fa7867e",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "4baf251c-5a65-4532-9e3f-75857ad332fb",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
